@@ -1,4 +1,4 @@
-Cerberus
+git+https://github.com/nicolaiarocci/cerberus.git#egg=Cerberus
 Events==0.2.1
 Flask-PyMongo==0.4.0
 Flask==0.10.1
